@@ -1,0 +1,14 @@
+Which of the following sequences of characters are atoms, which are variables,
+which are complex terms, and which are not terms at all? Give the functor and
+arity of each complex term.
+
+ 1. loves(Vincent,mia)                  ~> loves/2
+ 2. 'loves(Vincent,mia)'                ~> Atom
+ 3. Butch(boxer)                        ~> Not a term
+ 4. boxer(Butch)                        ~> boxer/1
+ 5. and(big(burger),kahuna(burger))     ~> and/2 big/1 kahuna/1
+ 6. and(big(X),kahuna(X))               ~> and/2 big/1 kahuna/1
+ 7. _and(big(X),kahuna(X))              ~> Not a term
+ 8. (Butch  kills  Vincent)             ~> Not a term
+ 9. kills(Butch  Vincent)               ~> Not a term
+10. kills(Butch,Vincent                 ~> Not a term
