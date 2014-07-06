@@ -1,0 +1,3 @@
+[the,cow,under,the,table,shoots]. 
+[a,dead,woman,likes,he]. 
+[a,dead,woman,likes,him]. 

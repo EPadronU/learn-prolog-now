@@ -1,0 +1,52 @@
+[the,cow,under,the,table,shoots]
+
+s
+  np
+    det
+      the
+    ap
+      λ
+    n
+      cow
+    prep
+      under
+      np
+        det
+          the
+        ap
+          λ
+        n
+          table
+        prep
+          λ
+  vp
+    v
+      shoots
+
+
+[a,dead,woman,likes,he]
+
+no.
+
+
+[a,dead,woman,likes,him]
+
+s
+  np
+    det
+      a
+    ap
+      dead
+      ap
+        λ
+    n
+      woman
+    prep
+      λ
+  vp
+    v
+      likes
+    np
+      him
+
+
